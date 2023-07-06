@@ -1,0 +1,119 @@
+.header{
+    padding: 20px;
+    
+
+}
+.header a{
+    padding: 10px;
+    position: relative;
+    top:5px;
+    left: 1225px;
+    font-size: large;
+    text-decoration: none;
+    color: black;
+    font-weight: 100;
+}
+.header a:hover{
+    text-decoration: underline;
+
+}
+.profile{
+    width:40px;
+    height: 40px;
+    border-radius: 20px;
+    position: absolute;
+    right: 20px;
+    top:20px;
+}
+.profile:hover{
+    box-shadow: 90px black ;
+}
+ 
+.google{
+    width: 340px;
+    display: block;
+    margin: 0 auto;
+    padding: auto;
+}
+.drop{
+    width: 1.5%;
+    position: absolute;
+    right: 90px;
+    top:30px;
+    opacity: 60%;
+
+}
+.Srh{
+    /* padding: 2px; */
+    border-radius: 30px;
+    border-style: solid;
+    margin: 50px 370px;
+    border-color: rgba(135, 132, 132, 0.196);
+
+}
+.search-icon{
+    margin-left:1em;
+    opacity: 60%;
+}
+.search{
+    width: 615px;
+    height: 50px;
+    display: inline;
+    margin: 0 auto;
+    border-style:hidden;
+    /* border-radius: 30px;
+    border-color: rgba(135, 132, 132, 0.196); */
+}
+.mic{
+    margin-right:1em;
+    margin-top: 1em;
+    opacity: 60%;
+
+}
+.cam{
+    margin-right: 2em;
+    opacity: 60%;
+}
+.links{
+    margin: 50px 370px;
+}
+.gs{
+    margin-left:13em;
+    width:140px;
+    height:40px;
+    border-style: hidden;
+    font-size: large;
+    background-color: rgba(186, 194, 194, 0.183);
+}
+.gs:hover{
+    border:2px solid rgba(164, 161, 162, 0.518);
+    box-shadow: 0 5px 5px 0 rgba(164, 161, 162, 0.128);
+    border-radius: 5px;
+}
+.fl{
+    margin-left:1em;
+    width:200px;
+    height:40px;
+    border-style: hidden;
+    font-size: large;
+    background-color: rgba(186, 194, 194, 0.183);
+}
+.fl:hover{
+    border:2px solid rgba(164, 161, 162, 0.518);
+    box-shadow: 0 5px 5px 0 rgba(164, 161, 162, 0.128);
+    border-radius: 5px;
+}
+.lang{
+ margin-left: 10em;
+ font-size: large;
+ color: rgba(0, 0, 0, 0.646);
+}
+.lang a{
+    text-decoration: none;
+    color: blue;
+    padding: 5px;
+}
+.lang a:hover{
+    text-decoration: underline;
+}
+
