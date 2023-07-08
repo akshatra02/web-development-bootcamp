@@ -56,7 +56,7 @@
     opacity: 60%;
 }
 .search{
-    width: 615px;
+    width: 600px;
     height: 50px;
     display: inline;
     margin: 0 auto;
@@ -116,4 +116,21 @@
 .lang a:hover{
     text-decoration: underline;
 }
-
+.footer{
+    position: absolute;
+    right:1px;
+    left:1px;
+    bottom: 1px;
+    padding: 20px;
+    font-size: x-large;
+    background-color: rgba(128, 128, 128, 0.203);
+} 
+.footer a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.575);
+    padding: 30px;
+    margin-left: 50px;
+}
+.footer a:hover{
+    text-decoration: underline;
+} 
