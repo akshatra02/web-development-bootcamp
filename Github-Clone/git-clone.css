@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/bg.jpg);
+    background-size:cover;
+}
+.logo{
+    width:70px;
+    height: 70px;
+    border-radius: 100%;
+}
+.drop p{
+    font-size: 12px;
+}
+.drop a:hover{
+    color: blue;
+}
+.drop span{
+    margin-left: 10px;
+    font-weight: 500;
+}
+.btt{
+    width: 200px;
+}
+.btt:last-of-type{
+    border: 2px solid black;
+}
+.btt:last-of-type{
+    border-color: gray;
+}
+.btt:hover{
+    color: rgb(227, 221, 221);
+}
+
